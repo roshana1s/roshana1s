@@ -7,7 +7,7 @@
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 - 🚀 I love building intelligent programs and diving into new technologies that push the boundaries of what's possible.
 - 🧠 Currently diving into **AI Agents** and **Deep Learning**.  
