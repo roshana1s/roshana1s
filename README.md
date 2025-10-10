@@ -9,8 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=roshana1s&label=Profile%20views&color=0e75b6&style=flat" alt="roshana1s" />
 </p>
 
-<br/>
-
 ## 💫 About Me
 
 - 🚀 Passionate about building intelligent programs and exploring cutting-edge AI technologies
