@@ -2,10 +2,14 @@
 <h3 align="center">🎓 3rd Year AI Undergraduate | University of Moratuwa 🇱🇰</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/roshana1s/roshana1s/main/assets/bg.gif" width="508" height="286" alt="Coding Animation"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=roshana1s&label=Profile%20views&color=0e75b6&style=flat" alt="roshana1s" />
 </p>
 
----
+<br/>
 
 ## 💫 About Me
 
