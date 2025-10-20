@@ -44,7 +44,7 @@
 [![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black&style=flat-square)](https://huggingface.co/transformers/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat-square)](https://huggingface.co/)
 [![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)](https://ai.azure.com/)
-[![RAG](https://img.shields.io/badge/RAG-FF6B6B?logo=ai&logoColor=white&style=flat-square)]([https://python.langchain.com/docs/use_cases/question_answering/](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+[![RAG](https://img.shields.io/badge/RAG-FF6B6B?logo=ai&logoColor=white&style=flat-square)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
 
 ### 💻 Programming Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)](https://www.python.org/)
